@@ -12,6 +12,8 @@
 8.[ToDoList](https://github.com/droelth/SwiftUI-ToDoList)<br>
 9.[21Blackjack](https://github.com/droelth/SwiftUI-21)<br>
 10.[WeatherApp](https://github.com/droelth/SwiftUI---WeatherApp)<br>
+11.[ToDoListiOS17](https://github.com/droelth/SwiftUI---ToDoiOS17)<br>
+12.[ExpenseAppiOS17](https://github.com/droelth/SwiftUI-ExpenseApp)<br>
 
 
 Let me take you through my imagination...
@@ -55,3 +57,10 @@ Let me take you through my imagination...
 # Weather App
 <a href="https://ibb.co/8rRZ40B"><img src="https://i.ibb.co/WkdJp63/Simulator-Screenshot-i-Phone-14-2023-09-19-at-20-05-03.png" alt="Simulator-Screenshot-i-Phone-14-2023-09-19-at-20-05-03" border="0" width="240" height="500"></a>
 <a href="https://ibb.co/Z8w1401"><img src="https://i.ibb.co/6PpJ9kJ/Simulator-Screenshot-i-Phone-14-2023-09-19-at-20-05-06.png" alt="Simulator-Screenshot-i-Phone-14-2023-09-19-at-20-05-06" border="0" width="240" height="500"></a>
+
+# ToDoListiOS17
+<a href="https://ibb.co/Kjy3GKP"><img src="https://i.ibb.co/d0KzcmT/Simulator-Screenshot-i-Phone-15-Pro-2023-09-21-at-11-33-29.png" alt="Simulator-Screenshot-i-Phone-15-Pro-2023-09-21-at-11-33-29" border="0" width="240" height="500" ></a>
+<a href="https://ibb.co/9sCYvFr"><img src="https://i.ibb.co/f4P0Shx/Simulator-Screenshot-i-Phone-15-Pro-2023-09-20-at-16-17-27.png" alt="Simulator-Screenshot-i-Phone-15-Pro-2023-09-20-at-16-17-27" border="0" width="240" height="500" ></a>
+
+# ExpenseAppiOS17
+<a href="https://ibb.co/Fx0N6gg"><img src="https://i.ibb.co/mDX1J66/Simulator-Screenshot-i-Phone-15-Pro-2023-09-22-at-02-25-33.png" alt="Simulator-Screenshot-i-Phone-15-Pro-2023-09-22-at-02-25-33" border="0" width="240" height="500"></a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNheTlheWdsOHZ6ODJkMjlhZzc2c29kY3R2bXhtZ2FsdDAxdHF6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JnmsKjkcYxYzZXg6p4/giphy.gif" width="240" height="500" />
